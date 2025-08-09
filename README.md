@@ -2,16 +2,20 @@
 
 **English**
 
-Passionate and results-driven software developer from Bogotá, Colombia. I thrive on building robust, scalable applications and solving challenging problems. Currently, I'm deeply focused on learning and experimenting with Artificial Intelligence and Machine Learning. My skill set spans both backend and frontend technologies, and I love turning complex ideas into simple, user-friendly solutions. Whether working on open-source projects or deploying production-ready systems, I'm committed to code quality, continuous learning, and innovation. Collaboration, knowledge sharing, and adopting best practices are at the heart of my work philosophy.
+Passionate and results-driven software developer. I thrive on building robust, scalable applications and solving challenging problems. Currently, I'm deeply focused on Artificial Intelligence, combining it with powerful tools such as Flutter and React Native to build smart, cross-platform apps. I enjoy integrating AI models (like TensorFlow Lite) directly into mobile applications, bringing advanced features to users' hands. My journey also covers end-to-end DevOps practices: from development, testing, and CI/CD, to deployment and production monitoring.
 
-- 🔭 I'm currently learning: **Artificial Intelligence, Machine Learning, and Data Science**
-- 🌱 Exploring AI frameworks like TensorFlow and PyTorch
-- 👯 Looking to collaborate on innovative AI applications and open-source projects
+- 🔭 Currently learning: Artificial Intelligence, Machine Learning, Data Science
+- 📱 Building smart apps with Flutter, React Native, and AI (e.g., TensorFlow Lite)
+- ⚡ Integrating AI into mobile apps for real-world solutions
+- 🚀 DevOps enthusiast: automating deployment pipelines, CI/CD, and monitoring apps in production
+- 👯 Looking to collaborate on innovative AI and mobile app projects
 
 **Español**
 
-Desarrollador de software apasionado y orientado a resultados, desde Bogotá, Colombia. Disfruto crear aplicaciones robustas y escalables, resolviendo problemas complejos de forma eficiente. Actualmente, estoy profundamente enfocado en aprender e investigar sobre Inteligencia Artificial y Machine Learning. Domino tecnologías de backend y frontend, y me encanta transformar ideas complejas en soluciones funcionales y accesibles para los usuarios. Ya sea en proyectos de código abierto o desplegando sistemas en producción, siempre priorizo la calidad, el aprendizaje continuo y la innovación. Trabajo en equipo, compartir conocimiento y las buenas prácticas son clave en mi forma de trabajar.
+Desarrollador de software apasionado y orientado a resultados. Me especializo en crear aplicaciones robustas y escalables, resolviendo problemas complejos. Actualmente, estoy enfocado en aprender e integrar Inteligencia Artificial, combinando herramientas como Flutter y React Native para crear apps inteligentes y multiplataforma. Me gusta integrar modelos de IA (como TensorFlow Lite) directamente en aplicaciones móviles, llevando funciones avanzadas a los usuarios. También tengo interés y experiencia en prácticas DevOps: desde el desarrollo y pruebas, hasta el despliegue automatizado y monitoreo en producción.
 
-- 🔭 Actualmente aprendiendo: **Inteligencia Artificial, Machine Learning y Ciencia de Datos**
-- 🌱 Explorando frameworks de IA como TensorFlow y PyTorch
-- 👯 Buscando colaborar en aplicaciones IA innovadoras y proyectos open-source
+- 🔭 Actualmente aprendiendo: Inteligencia Artificial, Machine Learning y Ciencia de Datos
+- 📱 Desarrollando apps inteligentes con Flutter, React Native e IA (ejemplo: TensorFlow Lite)
+- ⚡ Integración de IA en móviles para soluciones reales
+- 🚀 DevOps de principio a fin: CI/CD, despliegue automatizado y monitoreo
+- 👯 Buscando colaborar en proyectos innovadores de IA y apps móviles
