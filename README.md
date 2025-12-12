@@ -6,10 +6,10 @@ Passionate and results-driven software developer. I thrive on building robust, s
 
 - 🧑‍💻 Full-stack developer proficient with a wide set of tools and technologies (mentioning modern frameworks, databases, cloud and CI/CD)
 - 🔭 Currently learning: Artificial Intelligence, Machine Learning, Data Science
-- 📱 Building smart apps with Flutter, React Native, and AI (e.g., TensorFlow Lite)
+- 📱 Building smart apps and web apps with Flutter, React Native , python , AI ,etc
 - ⚡ Integrating AI into mobile apps for real-world solutions
 - 🚀 DevOps enthusiast: automating deployment pipelines, CI/CD, and monitoring apps in production
-- 👯 Looking to collaborate on innovative AI and mobile app projects
+- 👯 Looking to collaborate on innovative AI ,  mobile app and web apps  projects
 
 **Español**
 
@@ -17,7 +17,7 @@ Desarrollador de software apasionado y orientado a resultados. Me especializo en
 
 - 🧑‍💻 Desarrollador fullstack con manejo de múltiples herramientas y tecnologías modernas (incluyendo frameworks actuales, bases de datos, nube y CI/CD)
 - 🔭 Actualmente aprendiendo: Inteligencia Artificial, Machine Learning y Ciencia de Datos
-- 📱 Desarrollando apps inteligentes con Flutter, React Native e IA (ejemplo: TensorFlow Lite)
+- 📱 Desarrollando apps y web apps  inteligentes con Flutter, React Native , phyton , IA 
 - ⚡ Integración de IA en móviles para soluciones reales
 - 🚀 DevOps de principio a fin: CI/CD, despliegue automatizado y monitoreo
-- 👯 Buscando colaborar en proyectos innovadores de IA y apps móviles
+- 👯 Buscando colaborar en proyectos innovadores de IA ,  apps móviles y web 
